@@ -1,6 +1,5 @@
 # Getting and Cleaning Data Project
-Author: Michael Galarnyk <br />
-Blog Post: [Getting and Cleaning Data Review](https://medium.com/@GalarnykMichael/review-course-1-the-data-scientists-toolbox-jhu-coursera-4d7459458821#.5jpg133ln "Click to go to Repo") <br />
+Author: Anas Aji Muhammed <br />
 Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Clicking will download the data")
 
 ## Goal of the Project
@@ -13,7 +12,7 @@ Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/g
 
 Goal | Item | Link to Item
 --- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/anas-aji-muhammed/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/Project/run_analysis.R"run_analysis.R")
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/anas-aji-muhammed/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/Project/run_analysis.R)
 Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/anas-aji-muhammed/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/Project/tidyData.txt"tidyData.txt")
 Github Repo | Repo |  [Repo Link](https://github.com/anas-aji-muhammed/datasciencecoursera/tree/master/3_Getting_and_Cleaning_Data/Project "Click to go to Repo")
 Cookbook | CodeBook.md |  [Repo Link](https://github.com/anas-aji-muhammed/datasciencecoursera/tree/master/3_Getting_and_Cleaning_Data/codebook.md "codebook.md")
